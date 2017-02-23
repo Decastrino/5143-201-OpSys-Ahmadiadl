@@ -38,7 +38,7 @@ Date: 21 Feb 2017
 | `history`           |
 | `!x`                |
 | `chmod xxx`         |
-
+| `command &` |
 
 ### References
 - https://docs.python.org/2.7/
