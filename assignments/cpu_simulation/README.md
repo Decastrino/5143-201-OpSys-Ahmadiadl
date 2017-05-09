@@ -13,13 +13,13 @@ Date: 8 May 2017
 
 ### Additional Code Attribution
 #### Ali Ahmadiadl:
-Codes of constructor of Simulator class, perform_io function of Simulator class, sem_acquire function of Simulator class, sem_release function of Simulator class,
+Codes of constructor of Simulator class, perform_io function of Simulator class, sem_acquire function of Simulator class, sem_release function of Simulator class
 
 ##### Time spent working on project: 5 days
 
 
 #### Gyaneshwar Malba:
-putJobsOnReadyQueue function of Simulator class, changing Semaphore and SemaphorePool class, part of output formating of display_status function of Simulator class
+putJobsOnReadyQueue function of Simulator class, changing of Semaphore and SemaphorePool classes, part of output formating of display_status function of Simulator class
 
 ##### Time spent working on project: 
 
@@ -31,3 +31,5 @@ new_process fucntion of Simulator class, isFinished fucntion of Simulator class,
 
 
 ### Participation Pie Chart: 
+![capture](https://cloud.githubusercontent.com/assets/25235118/25836006/d8215028-3448-11e7-8fee-f4e9b5a9d708.JPG)
+
