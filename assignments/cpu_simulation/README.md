@@ -19,7 +19,7 @@ Date: 8 May 2017
 
 #### Gyaneshwar Malba:
 putJobsOnReadyQueue function of Simulator class, changing of Semaphore and SemaphorePool classes, part of output formating of display_status function of Simulator class
-##### Time spent working on project: 
+##### Time spent working on project: 14 days
 #
    
    
