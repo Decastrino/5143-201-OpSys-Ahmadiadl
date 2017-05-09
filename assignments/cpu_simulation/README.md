@@ -33,3 +33,19 @@ new_process fucntion of Simulator class, isFinished fucntion of Simulator class,
 ### Participation Pie Chart: 
 ![capture](https://cloud.githubusercontent.com/assets/25235118/25836006/d8215028-3448-11e7-8fee-f4e9b5a9d708.JPG)
 
+
+### Files in project:
+| Files    |
+|----------|
+simulation.py
+accounting.py
+clock.py
+cpu.py
+fifo.py
+memory.py
+process.py
+semaphore.py
+sim_components.py
+
+All of the files listed above are included in the project.
+
